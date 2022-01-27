@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Proyectoguapo/static/css/main.9dc04287.css",
+    "main.js": "/Proyectoguapo/static/js/main.13291c41.js",
+    "index.html": "/Proyectoguapo/index.html",
+    "main.9dc04287.css.map": "/Proyectoguapo/static/css/main.9dc04287.css.map",
+    "main.13291c41.js.map": "/Proyectoguapo/static/js/main.13291c41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc04287.css",
+    "static/js/main.13291c41.js"
+  ]
+}
